@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/224877543/clipboard_manager.iml" filepath="$PROJECT_DIR$/.idea/modules/224877543/clipboard_manager.iml" group="android/clipboard_manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1419426497/fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/1419426497/fluttertoast.iml" group="android/fluttertoast" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-302749592/shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-302749592/shared_preferences.iml" group="android/shared_preferences" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-471344636/url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-471344636/url_launcher.iml" group="android/url_launcher" />
+    </modules>
+  </component>
+</project>
